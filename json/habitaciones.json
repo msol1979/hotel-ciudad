@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "tipo_habitacion": "Simple",
+    "precio_noche": 25000,
+    "capacidad_maxima": 1,
+    "servicios": ["Wi-Fi", "Desayuno", "TV"],
+    "descripcion": "Habitación individual con cama matrimonial pequeña y vista a la ciudad."
+  },
+  {
+    "id": 2,
+    "tipo_habitacion": "Doble",
+    "precio_noche": 40000,
+    "capacidad_maxima": 2,
+    "servicios": ["Wi-Fi", "Desayuno", "TV", "Minibar"],
+    "descripcion": "Habitación amplia con dos camas individuales o una matrimonial."
+  },
+  {
+    "id": 3,
+    "tipo_habitacion": "Suite",
+    "precio_noche": 75000,
+    "capacidad_maxima": 6,
+    "servicios": ["Wi-Fi", "Desayuno", "TV", "Minibar", "Jacuzzi", "Balcón"],
+    "descripcion": "Suite de lujo con sala de estar independiente y servicios exclusivos."
+  },
+  {
+    "id": 4,
+    "tipo_habitacion": "Simple",
+    "precio_noche": 25000,
+    "capacidad_maxima": 1,
+    "servicios": ["Wi-Fi", "Desayuno", "TV"],
+    "descripcion": "Habitación individual con cama matrimonial pequeña y vista al jardín del hotel."
+  },
+  {
+    "id": 5,
+    "tipo_habitacion": "Doble",
+    "precio_noche": 40000,
+    "capacidad_maxima": 2,
+    "servicios": ["Wi-Fi", "Desayuno", "TV", "Minibar"],
+    "descripcion": "Habitación amplia con dos camas individuales o una matrimonial."
+  },
+  {
+    "id": 6,
+    "tipo_habitacion": "Suite",
+    "precio_noche": 75000,
+    "capacidad_maxima": 6,
+    "servicios": ["Wi-Fi", "Desayuno", "TV", "Minibar", "Jacuzzi", "Balcón"],
+    "descripcion": "Suite de lujo con sala de estar independiente y servicios exclusivos."
+  }
+]
